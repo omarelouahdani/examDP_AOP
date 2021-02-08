@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T11:49:37.751624100Z</date>
+  <millis>1612784977751</millis>
+  <nanos>624100</nanos>
+  <sequence>0</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Avant double ma.sid.eval.Structer.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.764612500Z</date>
+  <millis>1612784977764</millis>
+  <nanos>612500</nanos>
+  <sequence>1</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Après double ma.sid.eval.Structer.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.765612500Z</date>
+  <millis>1612784977765</millis>
+  <nanos>612500</nanos>
+  <sequence>2</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Durée : 16ms</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.766611700Z</date>
+  <millis>1612784977766</millis>
+  <nanos>611700</nanos>
+  <sequence>3</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Avant double ma.sid.eval.Structer.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.778606Z</date>
+  <millis>1612784977778</millis>
+  <nanos>606000</nanos>
+  <sequence>4</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Après double ma.sid.eval.Structer.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.779610300Z</date>
+  <millis>1612784977779</millis>
+  <nanos>610300</nanos>
+  <sequence>5</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Durée : 13ms</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.780607500Z</date>
+  <millis>1612784977780</millis>
+  <nanos>607500</nanos>
+  <sequence>6</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Avant void ma.sid.eval.Structer.Parametrage.add(Figure)</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.790597200Z</date>
+  <millis>1612784977790</millis>
+  <nanos>597200</nanos>
+  <sequence>7</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Après void ma.sid.eval.Structer.Parametrage.add(Figure)</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.791597100Z</date>
+  <millis>1612784977791</millis>
+  <nanos>597100</nanos>
+  <sequence>8</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Durée : 12ms</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.791597100Z</date>
+  <millis>1612784977791</millis>
+  <nanos>597100</nanos>
+  <sequence>9</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Avant void ma.sid.eval.Structer.Parametrage.add(Figure)</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.792597300Z</date>
+  <millis>1612784977792</millis>
+  <nanos>597300</nanos>
+  <sequence>10</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Après void ma.sid.eval.Structer.Parametrage.add(Figure)</message>
+</record>
+<record>
+  <date>2021-02-08T11:49:37.792597300Z</date>
+  <millis>1612784977792</millis>
+  <nanos>597300</nanos>
+  <sequence>11</sequence>
+  <logger>ma.sid.eval.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.sid.eval.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Durée : 1ms</message>
+</record>
+</log>
